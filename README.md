@@ -23,9 +23,7 @@ A simple stopwatch web application built with HTML, CSS, and JavaScript. Track t
 - Click the "Start" button to begin timing.
 - Click the "Stop" button to pause timing.
 - Click the "Reset" button to clear the stopwatch and start over.
+
 ## Author
-<<<<<<< HEAD
 Rakesh M
-=======
-Rakesh M
->>>>>>> e01a0ab20e2452f786c5cc693835c6411235e215
+
