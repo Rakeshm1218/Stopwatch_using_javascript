@@ -2,15 +2,9 @@
 
 A simple stopwatch web application built with HTML, CSS, and JavaScript. Track time accurately with start, stop, and reset functionality for various timing needs.
 
-<<<<<<< HEAD
 ## Screenshot
 
 ![stopwatch](<screenshot/Screenshot 2024-05-05 151749.png>)
-=======
-## Introduction
-
-This project is a basic stopwatch implementation using web technologies. It provides start, stop, and reset functionality to accurately track time.
->>>>>>> e01a0ab20e2452f786c5cc693835c6411235e215
 
 ## Features
 
