@@ -15,7 +15,7 @@ This project is a basic stopwatch implementation using web technologies. It prov
 ## Installation
 
 1. Clone the repository to your local machine:
-
+   git clone https://github.com/Rakeshm1218/Stopwatch_using_javascript.git
 2. Open `index.html` in a web browser to use the stopwatch.
 
 ## Usage
